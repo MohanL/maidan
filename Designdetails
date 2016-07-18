@@ -1,0 +1,26 @@
+detect the change of the webpage
+
+regresh the page and still have code running on the webpage
+
+phantomjs ?
+
+chrome extension ?
+
+selenium ?
+
+scrapy ?
+
+send requests to the database and refresh the page with javascript
+
+
+Step one: get the controller also the thing is the authentication problem
+
+
+
+
+
+problems: how to start the program and stop the program as the users are non-programmers
+how to trigger notifications ?
+
+
+every 10 mins : record the previous stats and compare to the current state, unknown problems over here.
